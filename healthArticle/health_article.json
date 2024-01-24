@@ -1,5 +1,5 @@
-{
-    "articles": [
+
+  {  "articles": [
       {
         "title": "The Importance of Regular Exercise",
         "description": "This article discusses the numerous benefits of regular exercise, including improved cardiovascular health, stronger muscles, better mental health, and increased longevity.",
@@ -63,5 +63,7 @@
         ]
       }
     ]
+    
   }
+  
   
