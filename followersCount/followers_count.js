@@ -22,7 +22,7 @@ function increaseCount() {
     }
 
 function reset(){
-    confirm('Your Followers count has been reset!');
+    confirm('Your Followers counter has been reset!');
     count = 0; 
     displayCount();
 }
